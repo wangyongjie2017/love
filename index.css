@@ -10,7 +10,7 @@ li {
 }
 
 img {
-    width: 100%;
+    width: 50%;
 }
 
 a {
@@ -48,6 +48,9 @@ h1 span {
     background: pink;
 }
 
+.wrap ul li div{
+    text-align: center;
+}
 
 .wrap ul li div.active {
     -webkit-animation-iteration-count: infinite;
