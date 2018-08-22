@@ -71,6 +71,12 @@ a:hover {
     animation-iteration-count: infinite;
 }
 
+
+/* .wrap ul li:hover div {
+    animation-iteration-count: infinite !important;
+    -webkit-animation-iteration-count: infinite;
+} */
+
 .wrap ul li h2 {
     text-align: center;
     font-size: 12px;
