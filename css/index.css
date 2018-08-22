@@ -28,14 +28,19 @@ a:hover {
 
 /* 头部 */
 
+.header {
+    position: relative;
+}
+
 .header h1 {
     text-align: center;
 }
 
 .header .btn {
     position: absolute;
-    top: 10px;
+    top: 50%;
     right: 10px;
+    transform: translateY(-50%);
 }
 
 
